@@ -1,0 +1,7 @@
+devel/
+logs/
+build/
+.catkin_tool/
+.catkin_tools/
+*.pcd
+*.pyc

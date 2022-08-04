@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/src/dynpick_driver/include/**",
+        "/usr/include/**",
+        "src/optoforce_sensor/include/"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
